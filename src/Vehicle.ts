@@ -4,10 +4,10 @@
  *
  * By:      Huzaifa Khalid
  * Version: 1.0
- * Since:   2022-11-01
+ * Since:   2022-11-02
  */
 
-class Vehicle {
+abstract class Vehicle {
   // declares all variables
   private speed = 0
   private readonly maxSpeed: number
